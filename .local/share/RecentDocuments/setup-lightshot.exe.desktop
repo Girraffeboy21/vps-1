@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-ms-dos-executable
+Name=setup-lightshot.exe
+Type=Link
+URL[$e]=file:$HOME/Downloads/setup-lightshot.exe
+X-KDE-LastOpenedWith=wine

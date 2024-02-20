@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=application-x-xz-compressed-tar
+Name=ffmpeg-6.1.1.tar.xz
+Type=Link
+URL[$e]=file:$HOME/Downloads/ffmpeg-6.1.1.tar.xz
+X-KDE-LastOpenedWith=xarchiver

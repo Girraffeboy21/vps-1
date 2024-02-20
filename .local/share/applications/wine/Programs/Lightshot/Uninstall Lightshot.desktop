@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Lightshot
+Exec=env WINEPREFIX="/config/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Lightshot\\\\Uninstall\\ Lightshot.lnk
+Type=Application
+StartupNotify=true
+Path=/config/.wine/dosdevices/c:/Program Files (x86)/Skillbrains/lightshot
+Icon=BFF0_unins000.0
+StartupWMClass=unins000.exe
